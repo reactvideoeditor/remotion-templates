@@ -1,4 +1,4 @@
-# Remotion Templates
+# Remotion Templates by RVE
 
 A collection of free, ready-to-use templates for creating videos using Remotion. These templates are designed to be integrated directly into your existing React applications that use Remotion.
 
